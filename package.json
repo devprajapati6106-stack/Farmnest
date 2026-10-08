@@ -8,6 +8,7 @@
     "start": "node src/server.js",
     "seed": "node src/seed.js",
     "repair:prices": "node src/repairPrices.js"
+    "build":"vite"
   },
   "dependencies": {
     "bcryptjs": "^3.0.2",
